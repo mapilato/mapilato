@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mapilato
-- 👀 I’m interested in web development, data automation, data visualisation and ux enhancement
+- 👀 I’m interested in web development, systems automation, data visualisation and database administration
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on project building
 - 📫 How to reach me @ puleleseka@yahoo.com
